@@ -10,6 +10,6 @@ First of all you have to prepare your environment. Select a location where you w
     npm i puppeteer
     npm i xlsx
 
-To run the code simply run the main.js file in command prompt or visual code or any other 
+To run the code simply run the jobs.js file in command prompt or visual code or any other 
 
     node jobs.js
